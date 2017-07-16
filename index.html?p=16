@@ -8,23 +8,21 @@
     <!--Style -->
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700,300,600' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Arimo:100,400,700' rel='stylesheet' type='text/css'>
-	<title>district : a vibrant community changing the world</title>
+	<title>about district - district</title>
 
 <!-- This site is optimized with the Yoast SEO plugin v3.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="district is a vibrant community supporting change-making business enterprises with the right people, substantial knowledge in spaces of inspiration."/>
+<meta name="description" content="The District was founded in 2011 as the first Egyptian co working space in Egypt and the MENA region by Mazen Helmy, a serial entrepreneur."/>
 <meta name="robots" content="noodp"/>
-<link rel="canonical" href="http://district-egypt.com/" />
+<link rel="canonical" href="http://district-egypt.com/about-district/" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="district : a vibrant community changing the world" />
-<meta property="og:description" content="district is a vibrant community supporting change-making business enterprises with the right people, substantial knowledge in spaces of inspiration." />
-<meta property="og:url" content="http://district-egypt.com/" />
+<meta property="og:type" content="article" />
+<meta property="og:title" content="about district - district" />
+<meta property="og:description" content="The District was founded in 2011 as the first Egyptian co working space in Egypt and the MENA region by Mazen Helmy, a serial entrepreneur." />
+<meta property="og:url" content="http://district-egypt.com/about-district/" />
 <meta property="og:site_name" content="district" />
 <meta name="twitter:card" content="summary" />
-<meta name="twitter:description" content="district is a vibrant community supporting change-making business enterprises with the right people, substantial knowledge in spaces of inspiration." />
-<meta name="twitter:title" content="district : a vibrant community changing the world" />
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/district-egypt.com\/","name":"district coworking space","alternateName":"district coworking egypt","potentialAction":{"@type":"SearchAction","target":"http:\/\/district-egypt.com\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
-<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","url":"http:\/\/district-egypt.com\/","sameAs":[],"name":"district","logo":"http:\/\/district-egypt.com\/wp-content\/uploads\/2016\/02\/logo.png"}</script>
+<meta name="twitter:description" content="The District was founded in 2011 as the first Egyptian co working space in Egypt and the MENA region by Mazen Helmy, a serial entrepreneur." />
+<meta name="twitter:title" content="about district - district" />
 <!-- / Yoast SEO plugin. -->
 
 <link rel="alternate" type="application/rss+xml" title="district &raquo; Feed" href="http://district-egypt.com/feed/" />
@@ -55,14 +53,16 @@ img.emoji {
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://district-egypt.com/xmlrpc.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://district-egypt.com/wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 4.4.10" />
-<link rel='shortlink' href='http://district-egypt.com/' />
+<link rel='shortlink' href='http://district-egypt.com/?p=16' />
+<link rel="alternate" type="application/json+oembed" href="http://district-egypt.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdistrict-egypt.com%2Fabout-district%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://district-egypt.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fdistrict-egypt.com%2Fabout-district%2F&#038;format=xml" />
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<script type="text/javascript">
     var ajaxurl = "http://district-egypt.com/wp-admin/admin-ajax.php";
 </script>
   </head>
 
-<body class="home page page-id-6 page-template page-template-page-home page-template-page-home-php">
+<body class="page page-id-16 page-template-default">
 	
 <nav class="navbar main-menu-wrap clearfix"><!-- Main menu-->
   <div class="container">
@@ -82,7 +82,7 @@ img.emoji {
 <li id="menu-item-158" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-158"><a href="http://district-egypt.com/xpand-summits/">xpand summits</a></li>
 <li id="menu-item-147" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-147"><a href="http://district-egypt.com/media/">district in media</a></li>
 <li id="menu-item-157" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-157"><a href="http://district-egypt.com/events">events calendar</a></li>
-<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-144"><a href="http://district-egypt.com/about-district/">about district</a></li>
+<li id="menu-item-144" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16 current_page_item menu-item-144"><a href="http://district-egypt.com/about-district/">about district</a></li>
 </ul></div>
 							<ul class="nav navbar-nav pull-right">
 					<li class="dropdown">
@@ -97,171 +97,214 @@ img.emoji {
 	</div>
   </div>
 </nav><!-- End main menu -->
-	<section class="main-banner "><!--banner -->
-	  <div class=" content"> 
-	    <div id="carousel-example-generic" data-ride="carousel" class="carousel  slide carousel-fade">
-	      <div class="carousel-inner ">
-								
-		        <div class="item active">
-					<div class="overlay"></div>
-					<img src="http://district-egypt.com/wp-content/uploads/2016/02/IMG_7130.jpg" alt="...">
-					<div class="carousel-caption">
-						<h2>
-								     
-								<span>people</span>
-								     
-								<span>knowledge</span>
-								     
-								<span>space</span>
-														</h2>
-								     
-									<a href="http://district-egypt.com/the-space/" class="btn btn-danger">Join Us</a>
-								
-					</div>
-		        </div>
-								
-		        <div class="item ">
-					<div class="overlay"></div>
-					<img src="http://district-egypt.com/wp-content/uploads/2016/03/District-2.jpg" alt="...">
-					<div class="carousel-caption">
-						<h2>
-								     
-								<span>spaces for doers</span>
-								     
-								<span></span>
-														</h2>
-								     
-									<a href="http://district-egypt.com/the-space/" class="btn btn-danger">Join Us</a>
-								
-					</div>
-		        </div>
-								
-		        <div class="item ">
-					<div class="overlay"></div>
-					<img src="http://district-egypt.com/wp-content/uploads/2016/02/IMG_8293.png" alt="...">
-					<div class="carousel-caption">
-						<h2>
-								     
-								<span>inspiring   surrounding</span>
-								     
-								<span></span>
-														</h2>
-								     
-									<a href="http://district-egypt.com/the-space/" class="btn btn-danger">Join Us</a>
-								
-					</div>
-		        </div>
-								
-		        <div class="item ">
-					<div class="overlay"></div>
-					<img src="http://district-egypt.com/wp-content/uploads/2016/02/43.jpg" alt="...">
-					<div class="carousel-caption">
-						<h2>
-								     
-								<span>space for your passion</span>
-														</h2>
-								     
-									<a href="" class="btn btn-danger">Join our community</a>
-								
-					</div>
-		        </div>
-				
-	      </div>
-	      <ol class="carousel-indicators"> <!--indicators -->
-						        <li data-target="#carousel-example-generic" data-slide-to="0" class="active"> </li>
-						        <li data-target="#carousel-example-generic" data-slide-to="1" class=""> </li>
-						        <li data-target="#carousel-example-generic" data-slide-to="2" class=""> </li>
-						        <li data-target="#carousel-example-generic" data-slide-to="3" class=""> </li>
-					      </ol>
-	    </div>
-	  </div>
+<style>
+	.main-banner  { background-image: url('http://district-egypt.com/wp-content/uploads/2016/02/IMG_3987.jpg') !important;	}
+</style>
+<section class="main-banner about thespace"><!--banner -->
+  <div class="overlay-mc">
+    <div class="container">
+      <div class="main-heading">
+        <h1>about district</h1>
+      </div>
+          </div>
+  </div>
+</section>
+	<section class="container aboutUs-content">
+	      <p>district was founded in 2011 as the first Egyptian co working space in Egypt and among the pioneers in the MENA region by Mazen Helmy, a serial entrepreneur, awarded Africa’s most promising entrepreneurs under 30 by Forbes in 2014.<br />
+<br />
+District is created on the values of positive thinking, inspiration, collaboration and innovation. <br />
+A vision of a promising community with like minded individuals who will change the world to a better place. </p>
 	</section>
+	<div class="team-members-about"><!-- Team Members wrap-->
+  <div class="container">
+   	<div class="row">
+
+
 
         
-    
-    <section class="main-info-section">
-      <div class="container">
-        <div class="col-md-12">
-	         
-			<p>district is a vibrant community of entrepreneurs supporting change-making business enterprises with the right people, substantial knowledge in spaces of inspiration.</p>
-<p>Here is your place to meet the doers, integrate with the influencers and grow innovative solutions, crossing boundaries and beyond.</p>
-         
-			        </div>
-      </div>
-    </section>
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 clearfix"><!-- Team Member-->
+          <div class="item">
+            <div class="left"><img src="http://district-egypt.com/wp-content/uploads/2016/02/team1.jpg" alt="">
+              <ul class="list-unstyled">
+                <li>
+                	                		<a target="_blank" href="https://www.facebook.com/mazen.helmy" class="face"><i class="fa fa-facebook"></i></a> 
+                	                	                		<a  target="_blank" href="https://twitter.com/mazenh" class="tw"><i class="fa fa-twitter"></i></a>
+                	                	                		<a  target="_blank" href="https://www.linkedin.com/in/mazenhelmy?trk=nav_responsive_tab_profile_pic" class="linkd"><i class="fa fa-linkedin"></i></a></li>
+                	              </ul>
+            </div>
+            <div class="right">
+              <h4>Mazen Helmy</h4><span>Founder & CEO</span>
+			  <p>Holds BSc. Of Civil Engineering. Entrepreneur at heart with several ventures launched in various sectors. Mazen believes in hard  working, commitment and dedication.<br />
+Favorite quote: Life is a marathon not a sprint.</p>
+            </div>
+          </div>
+        </div>
+
 		
+        
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 clearfix"><!-- Team Member-->
+          <div class="item">
+            <div class="left"><img src="http://district-egypt.com/wp-content/uploads/2016/02/team2.png" alt="">
+              <ul class="list-unstyled">
+                <li>
+                	                		<a target="_blank" href="https://www.facebook.com/Mizoooo?fref=ts" class="face"><i class="fa fa-facebook"></i></a> 
+                	                	                		<a  target="_blank" href="https://twitter.com/moetaz_helmy" class="tw"><i class="fa fa-twitter"></i></a>
+                	                	                		<a  target="_blank" href="https://www.linkedin.com/in/moatazowis?authType=NAME_SEARCH&authToken=35s9&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A107027436%2CauthType%3ANAME_SEARCH%2Cidx%3A1-2-2%2CtarId%3A1459205873273%2Ctas%3AMoataz" class="linkd"><i class="fa fa-linkedin"></i></a></li>
+                	              </ul>
+            </div>
+            <div class="right">
+              <h4>Moetaz Owis</h4><span>Managing Director</span>
+			  <p>Holds MSc. of Mechanical Engineering and MSc. Of Corporate Management. With a very analytical mind-set, Moetaz built his experiences spotting areas of improvement and scaling ventures.</p>
+            </div>
+          </div>
+        </div>
 
+		
+        
+        <div class="col-lg-4 col-md-6 col-sm-6 col-xs-12 clearfix"><!-- Team Member-->
+          <div class="item">
+            <div class="left"><img src="http://district-egypt.com/wp-content/uploads/2016/02/12923237_10156716724145284_5472440307891129114_n.jpg" alt="">
+              <ul class="list-unstyled">
+                <li>
+                	                		<a target="_blank" href="https://www.facebook.com/mirna.m.bassily?fref=ts" class="face"><i class="fa fa-facebook"></i></a> 
+                	                	                	                		<a  target="_blank" href="https://www.linkedin.com/in/mirna-magued-bassily-8a5362a3?authType=NAME_SEARCH&authToken=MxDJ&locale=en_US&trk=tyah&trkInfo=clickedVertical%3Amynetwork%2CclickedEntityId%3A368151677%2CauthType%3ANAME_SEARCH%2Cidx%3A1-2-2%2CtarId%3A1468214632403%2Ctas%3Amirna%20" class="linkd"><i class="fa fa-linkedin"></i></a></li>
+                	              </ul>
+            </div>
+            <div class="right">
+              <h4>Mirna Bassily</h4><span>Community Manager</span>
+			  <p>Mirna is District community manager and a Ph.D. student at Nantes University in France. She is specializing in marketing, digital marketing, and community building.  She is also a teaching assistant at the French University in Egypt. </p>
+            </div>
+          </div>
+        </div>
+
+		
+<div class="clearfix"></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   	</div>
+  </div>
+</div>
+		
 	
-	<style>
-		.banner-2.section-2 {  background-image: url("http://district-egypt.com/wp-content/uploads/2016/02/banner2.png") ;}
-		.banner-2.section-2 p,.banner-2.section-2 h3{ color: white  }
-	</style>
-	<section class="banner-2 section-2 ">
-		<div class="container  text-center">
-			<h3> <img src="http://district-egypt.com/wp-content/uploads/2016/02/white-sp.png" alt=""><span>THE SPACE</span></h3>
-			<p>district spaces are renown for accommodating a diverse community of  innovative and change-making business ventures including sustainable agriculture, tech start-ups, health, transportation, culture and art.<br />
-</p>
-			        
-				<a  href="http://district-egypt.com/the-space/"  class="btn btn-bordered">read more</a>
-			        
-				<a  href="http://district-egypt.com/pricing/"  class="btn btn-white">book your space now</a>
-					</div>
-	</section>
-	
-	<style>
-		.banner-2.section-3 {  background-image: url("http://district-egypt.com/wp-content/uploads/2016/02/banner3.jpg") ;}
-		.banner-2.section-3 p,.banner-2.section-3 h3{ color: white  }
-	</style>
-	<section class="banner-2 section-3 ">
-		<div class="container  text-center">
-			<h3> <img src="http://district-egypt.com/wp-content/uploads/2016/02/white-sp2.png" alt=""><span>SOFT LANDING</span></h3>
-			<p>Paving the way to your expansion in the MENA region, we help you to penetrate new markets, connect you with the key partners and broaden your growth spectrum.<br />
-</p>
-			        
-				<a  href="http://district-egypt.com/soft-landing/"  class="btn btn-orange">read more</a>
-					</div>
-	</section>
-	
-	<style>
-		.banner-2.section-4 {  background-image: url("http://district-egypt.com/wp-content/uploads/2016/02/banner4-e1459754758342.jpg") ;}
-		.banner-2.section-4 p,.banner-2.section-4 h3{ color: black  }
-	</style>
-	<section class="banner-2 section-4 ">
-		<div class="container  text-center">
-			<h3> <img src="http://district-egypt.com/wp-content/uploads/2016/02/summite-logo.png" alt=""><span></span></h3>
-			<p>Xpand is the premium business event of the year presenting the ultimate opportunity for SMEs to accelerate growth with the latest financial solutions in Egypt & the MENA region.<br />
-<br />
-</p>
-			        
-				<a  href="http://district-egypt.com/xpand/"  class="btn btn-orange">More Details</a>
-					</div>
-	</section>
 
-
-
-
-
-
-
-    
-<section class="subscribe-section"><!-- subscribe section--> 
-  <div class="container">
-    <div class="col-md-6">
-      <h5>Join the community</h5>
-<form action="//district-egypt.us4.list-manage.com/subscribe/post?u=b65abb4b94b3f0ff821b9394a&amp;id=85fe53ef11" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-		<input type="email" value="" name="EMAIL" id="mce-EMAIL" placeholder="your email"  required class="form-control">
-        <button type="submit"  name="subscribe" id="mc-embedded-subscribe"  class="btn btn-primary">subscribe</button>
-		<div class="response" id="mce-error-response" style="display:none"></div>
-		<div class="response" id="mce-success-response" style="display:none"></div>
-		<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_b65abb4b94b3f0ff821b9394a_85fe53ef11" tabindex="-1" value=""></div>
-      </form>
-    </div>
-  </div><img src="" alt="" class="hidden-xs">
+<section class="container clients-sec">
+	<h3>Board of Advisors</h3>
 </section>
-    
-    
+    <section class="container clients-sec">
+		     
+		      <div class="col-md-4 item clearfix"><!--item-->
+		        <div class="img-wrap"><img src="http://district-egypt.com/wp-content/uploads/2016/02/maxresdefault-1.jpg" alt="Mr. Tarek Mansour"></div>
+		        <div class="info"> 
+		          <h5>Mr. Tarek Mansour</h5>
+		          <p><p>Senior Partner at PwC Egypt. Mr. Mansour  has been involved in the area of entrepreneurship for more than 10 years mainly in mentorship and working on the ecosystem. </p>
+</p>
+		        </div>
+		      </div>
+		     
+		      <div class="col-md-4 item clearfix"><!--item-->
+		        <div class="img-wrap"><img src="http://district-egypt.com/wp-content/uploads/2016/02/10600462_10154430255125702_1913586190616268813_n.jpg" alt="Mr. Mohamed H. Owiss"></div>
+		        <div class="info"> 
+		          <h5>Mr. Mohamed H. Owiss</h5>
+		          <p><p>Serial entrepreneur, social entrepreneur, activist and investor. Currently, Founder and CEO of progrss.com</p>
+</p>
+		        </div>
+		      </div>
+		     
+		      <div class="col-md-4 item clearfix"><!--item-->
+		        <div class="img-wrap"><img src="http://district-egypt.com/wp-content/uploads/2016/02/10298826_10153462098499532_2065769637812910399_n.jpg" alt="Prof. dr. Nicolas Antheaume"></div>
+		        <div class="info"> 
+		          <h5>Prof. dr. Nicolas Antheaume</h5>
+		          <p><p>Dean IEMN IAE Nantes University, France. Nicolas uses his academic knowledge and background in accounting, finance and project management to support district Startups and ventures.</p>
+</p>
+		        </div>
+		      </div>
+		<div class="clearfix"></div>     
+		      <div class="col-md-4 item clearfix"><!--item-->
+		        <div class="img-wrap"><img src="" alt=""></div>
+		        <div class="info"> 
+		          <h5></h5>
+		          <p></p>
+		        </div>
+		      </div>
+		   
+    </section>
+
+	
 
 
+
+
+
+
+
+
+
+
+
+
+
+		
+	
+
+<section class="container clients-sec">
+	<h3>Our amazing partners</h3>
+</section>
+    <section class="container clients-sec">
+		     
+		      <div class="col-md-4 item clearfix"><!--item-->
+		        <div class="img-wrap"><img src="http://district-egypt.com/wp-content/uploads/2016/02/hivos.png" alt=""></div>
+		        <div class="info"> 
+		          <h5></h5>
+		          <p></p>
+		        </div>
+		      </div>
+		     
+		      <div class="col-md-4 item clearfix"><!--item-->
+		        <div class="img-wrap"><img src="http://district-egypt.com/wp-content/uploads/2016/02/download-1.png" alt=""></div>
+		        <div class="info"> 
+		          <h5></h5>
+		          <p></p>
+		        </div>
+		      </div>
+		     
+		      <div class="col-md-4 item clearfix"><!--item-->
+		        <div class="img-wrap"><img src="http://district-egypt.com/wp-content/uploads/2016/02/600063_398532263544045_1609582743_n.jpg" alt=""></div>
+		        <div class="info"> 
+		          <h5></h5>
+		          <p></p>
+		        </div>
+		      </div>
+		<div class="clearfix"></div>   
+    </section>
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+</section>
+<div class="clearfix"></div>
 	<style>
 		.main-footer { background-image: url('http://district-egypt.com/wp-content/uploads/2016/02/footer.jpg');}
 	</style>
@@ -271,7 +314,7 @@ img.emoji {
         <div class="container">
           <div class="col-md-4  col-sm-4 col-xs-12"><img src="http://district-egypt.com/wp-content/uploads/2016/02/footer-logo.png" alt="district">
           
-							<ul id="menu-footer" class="list-unstyled"><li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-351"><a href="http://district-egypt.com/about-district/">about district</a></li>
+							<ul id="menu-footer" class="list-unstyled"><li id="menu-item-351" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-16 current_page_item menu-item-351"><a href="http://district-egypt.com/about-district/">about district</a></li>
 <li id="menu-item-352" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-352"><a href="http://district-egypt.com/contact-us/">Contact Us</a></li>
 </ul>			
           </div>
