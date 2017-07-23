@@ -1,4 +1,4 @@
--%! -A10000000 -q -Q http://district-egypt.com
+-%! -A10000000 -q -Q https://district-egypt.com
 File generated automatically on Sun, 16 Jul 2017 10:22:33, do NOT edit
 
 To update a mirror, just launch httrack without any parameters
